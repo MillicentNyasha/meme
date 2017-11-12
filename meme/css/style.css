@@ -32,10 +32,7 @@ img{
        clear: both;
      }
 
-     header{
-      background:#6ab47b;
-      border-color: #599a68; 
-     }
+
   .mainheader img{
     width: 30%;
     height: auto;
@@ -76,9 +73,9 @@ img{
   }
 
   .mainheader nav ul li a {
-    border-radius: 5px;
-    margin-border-radius: 5px;
-    max-width: 5px;
+    border-radius: 4px;
+    margin-border-radius: 4px;
+    max-width: 4px;
 
   }
   .mainContent{
@@ -176,9 +173,10 @@ img{
 
 
   .social-icon{
-    max-width: 300px;
-    height:950px;
-    padding: 0 0 20px;
+    max-width: 30px;
+    height:50px;
+    padding: 0 0 10px;
+    text-shadow: none;
   }
   .mainfooter p{
     width: 92%;
